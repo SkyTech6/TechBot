@@ -14,7 +14,6 @@ public class ChannelInformation : MonoBehaviour {
 	public string botName;
 	public string oAuthKey;
 
-
 	void Awake () 
 	{
 		if (channelInfo == null)

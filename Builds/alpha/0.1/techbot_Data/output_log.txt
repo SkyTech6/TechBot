@@ -14,15 +14,15 @@ Platform assembly: S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\
 Loading S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
+- Completed reload, in  0.038 seconds
 Platform assembly: S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.569008 ms
+UnloadTime: 0.558492 ms
 Platform assembly: S:\MyStuff\Git\TechBot\Builds\alpha\0.1\techbot_Data\Managed\System.Xml.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3eac -> priority: 1 
-  Thread -> id: 1c0 -> priority: 1 
+  Thread -> id: 4af8 -> priority: 1 
+  Thread -> id: 4418 -> priority: 1 
